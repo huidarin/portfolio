@@ -1,2 +1,2 @@
 # Learning
-Various code snippets from topics such as Big Data Analysis, Data Vizualization in R, and Tableau dashboards.
+Various code files, snippets, and Tableau dashboards learned from topics such as Big Data Analysis, and Data Vizualization
