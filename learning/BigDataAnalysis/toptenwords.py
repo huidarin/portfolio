@@ -1,5 +1,4 @@
 #Darin Hui
-#CPSC 4330 Prof. Li
 #2/22/22
 
 from pyspark import SparkContext
