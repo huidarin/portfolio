@@ -5,3 +5,9 @@ with minors in Data Science and Business Administration.
 
 This is a repository I have created to showcase skills, share side projects, and display my progress in learning and exploring data analytics 
 and other data science related topics.
+
+# Table of Contents
+
+# Projects
+
+# Learning
