@@ -1,0 +1,7 @@
+# Darin Hui - Portfolio
+# About
+Hi, I'm Darin! I'm currently a senior at Seattle University, in the process of obtaining a B.S. in Computer Science (Business Specialization)
+with minors in Data Science and Business Administration. 
+
+This is a repository I have created to showcase skills, share side projects, and display my progress in learning and exploring data analytics 
+and other data science related topics.
