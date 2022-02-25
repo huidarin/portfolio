@@ -9,5 +9,6 @@ and other data science related topics.
 # Table of Contents
 
 # Projects
+[Group Project: Personal Finance Database](https://github.com/a-wallen/PersonalFinanceDatabase)
 
 # Learning
